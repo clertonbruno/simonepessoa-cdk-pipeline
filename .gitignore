@@ -10,4 +10,4 @@ __pycache__
 cdk.out
 
 # Ignore lambda hello_world.py so that the IaC pipeline doesn't upload the lambda code, effectively overwriting the code (that we want to manage in another pipeline)
-lambda/hello_world.py
+helpers/lambda/hello_world.py
