@@ -8,6 +8,3 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
-
-# Ignore lambda hello_world.py so that the IaC pipeline doesn't upload the lambda code, effectively overwriting the code (that we want to manage in another pipeline)
-helpers/lambda/hello_world.py
