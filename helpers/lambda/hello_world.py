@@ -9,6 +9,10 @@ def lambda_handler(event, context):
     Returns:
         dict: The response object containing the statusCode, headers, and body.
     """
+    # ⚠️ DO NOT UPDATE AND COMMIT THIS FILE AS IT WOULD OVERWRITE ALL LAMBDA CODES ⚠️
+    # ⚠️ DO NOT UPDATE AND COMMIT THIS FILE AS IT WOULD OVERWRITE ALL LAMBDA CODES ⚠️
+    # ⚠️ DO NOT UPDATE AND COMMIT THIS FILE AS IT WOULD OVERWRITE ALL LAMBDA CODES ⚠️
+
     print(event)
 
     return {
