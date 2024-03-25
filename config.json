@@ -1,0 +1,12 @@
+{
+  "533267118072": {
+    "enviroment": "dev",
+    "region": "us-east-1",
+    "branch": "dev"
+  },
+  "825730410177": {
+    "enviroment": "prod",
+    "region": "us-east-1",
+    "branch": "main"
+  }
+}
